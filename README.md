@@ -184,7 +184,7 @@ FLAG{Ionic Defibrillator}
 
 ---
 
-## 🏁 4. Results
+## 4. Results
 
 ### **4.1 Flags Summary**
 
@@ -241,7 +241,7 @@ FLAG{Ionic Defibrillator}
 
 ---
 
-## 🖥️ 5. Environment Setup
+## 5. Environment Setup
 
 **VM Configuration:**
 - Target: Host-only adapter  
@@ -251,7 +251,7 @@ Ensures isolation from external networks and controlled analysis.
 
 ---
 
-## 🧩 6. Conclusion
+##  6. Conclusion
 
 The *RickdiculouslyEasy* VM successfully demonstrated a complete penetration testing workflow, from reconnaissance to privilege escalation.  
 All nine flags were captured with total **130 points**, validating tool efficiency and methodology.  
