@@ -260,5 +260,5 @@ The environment proved ideal for demonstrating real-world exploitation and repor
 ---
 
 ## 📎 Attachments
-- Original PDF: `Rizky Pratama Suhud_Laporan_RickdiculouslyEasy.pdf`
+- [Original PDF Report](attachments/Rizky\ Pratama\ Suhud_Laporan_RickdiculouslyEasy.pdf)
 ---
