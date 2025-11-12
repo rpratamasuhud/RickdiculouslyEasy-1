@@ -1,7 +1,7 @@
 # RickdiculouslyEasy — Penetration Testing Report
 
-**Author:** Rizky Pratama Suhud
-**VM:** RickdiculouslyEasy VM
+**Author:** Rizky Pratama Suhud  
+**VM:** RickdiculouslyEasy VM  
 **Total Score:** 130 Points
 
 ---
@@ -253,7 +253,7 @@ Ensures isolation from external networks and controlled analysis.
 
 ## 🧩 6. Conclusion
 
-The *RickdiculouslyEasy* VM successfully demonstrated a complete penetration testing workflow — from reconnaissance to privilege escalation.  
+The *RickdiculouslyEasy* VM successfully demonstrated a complete penetration testing workflow, from reconnaissance to privilege escalation.  
 All nine flags were captured with total **130 points**, validating tool efficiency and methodology.  
 The environment proved ideal for demonstrating real-world exploitation and reporting standards.
 
@@ -261,6 +261,4 @@ The environment proved ideal for demonstrating real-world exploitation and repor
 
 ## 📎 Attachments
 - Original PDF: `Rizky Pratama Suhud_Laporan_RickdiculouslyEasy.pdf`
-- Screenshots and session logs (if available) — include in `attachments/` when adding to the repository.
-
 ---
